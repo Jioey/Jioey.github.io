@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-        Hello world, this is Joey's website hosted from GitHub Pages
+        Hello world, this is Joeys website hosted from GitHub Pages
     </div>
   );
 }
